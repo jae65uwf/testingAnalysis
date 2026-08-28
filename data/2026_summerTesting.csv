@@ -1,0 +1,38 @@
+Course Number,Section Number,Professor,Test,Test Number,Test Date,Time,Result,No Show,Score,Passing Score,Semester End Date
+CET1588,D9086,Williams,Network+,N10-009,"Monday, August 10, 2026",1pm,Fail,FALSE,653,720,6-Aug-26
+CET1588,D9086,Williams,Network+,N10-009,"Wednesday, August 26, 2026",9am,Fail,FALSE,436,720,6-Aug-26
+CET1588,D9086,Williams,Network+,N10-009,"Wednesday, August 26, 2026",1pm,Pass,FALSE,722,720,6-Aug-26
+CET1588,RETAKE,RETAKE,Network+,N10-009,"Thursday, August 27, 2026",9am,Fail,FALSE,636,720,6-Aug-26
+CET1588,RETAKE,RETAKE,Network+,N10-009,"Thursday, August 27, 2026",9am,Fail,TRUE,0,720,6-Aug-26
+CGS1061C,D9087,Kerman,Tech+,FC0-U71,"Monday, August 3, 2026",1pm,Fail,TRUE,0,650,6-Aug-26
+CGS1061C,D9087,Kerman,Tech+,FC0-U71,"Monday, August 3, 2026",1pm,Pass,FALSE,691,650,6-Aug-26
+CGS1061C,D9087,Kerman,Tech+,FC0-U71,"Thursday, August 6, 2026",1pm,Pass,FALSE,670,650,6-Aug-26
+CGS1061C,D9087,Kerman,Tech+,FC0-U71,"Monday, August 10, 2026",9am,Pass,FALSE,691,650,6-Aug-26
+CGS1061C,D9087,Kerman,Tech+,FC0-U71,"Wednesday, August 26, 2026",9am,Fail,TRUE,0,650,6-Aug-26
+CGS1061C,D9087,Kerman,Tech+,FC0-U71,"Wednesday, August 26, 2026",1pm,Pass,FALSE,705,650,6-Aug-26
+CIS3122C,D9627,Paxton,CySA+,CS0-003,"Tuesday, August 4, 2026",1pm,Fail,FALSE,722,750,6-Aug-26
+CIS3122C,D9627,Paxton,CySA+,CS0-003,"Monday, August 10, 2026",9am,Pass,FALSE,786,750,6-Aug-26
+CIS3122C,D9627,Paxton,CySA+,CS0-003,"Monday, August 10, 2026",9am,Pass,FALSE,777,750,6-Aug-26
+CIS3122C,D9627,Paxton,CySA+,CS0-003,"Wednesday, August 26, 2026",1pm,Pass,FALSE,762,750,6-Aug-26
+CTS1138C,RETAKE,RETAKE,Core 1,220-1201,"Wednesday, August 26, 2026",1pm,Pass,FALSE,693,675,6-Aug-26
+CTS1138C,D9161,Andrae,Core 1,220-1201,"Monday, August 10, 2026",1pm,Pass,FALSE,755,675,6-Aug-26
+CTS1138C,D9161,Andrae,Core 1,220-1201,"Monday, August 10, 2026",1pm,Fail,TRUE,0,675,6-Aug-26
+CTS1138C,P1195,Staats,Core 1,220-1201,"Wednesday, August 26, 2026",9am,Fail,FALSE,648,675,6-Aug-26
+CTS1138C,D9161,Andrae,Core 1,220-1201,"Wednesday, August 26, 2026",1pm,Pass,FALSE,724,675,6-Aug-26
+CTS1138C,D9161,Andrae,Core 1,220-1201,"Thursday, August 27, 2026",9am,Fail,FALSE,503,675,6-Aug-26
+CTS1138C,D9161,Andrae,Core 1,220-1201,"Thursday, August 27, 2026",1pm,Pass,FALSE,782,675,6-Aug-26
+CTS1138C,D9161,Andrae,Core 1,220-1201,"Thursday, August 27, 2026",1pm,Pass,FALSE,747,675,6-Aug-26
+CTS1138C,RETAKE,RETAKE,Core 2,220-1202,"Thursday, August 27, 2026",1pm,Pass,FALSE,715,675,6-Aug-26
+CTS2120C,D9007,Kerman,Security+,SY0-007,"Monday, August 10, 2026",9am,Pass,FALSE,764,750,6-Aug-26
+CTS2120C,D9189,Kerman,Security+,SY0-007,"Monday, August 10, 2026",1pm,Fail,FALSE,682,750,6-Aug-26
+CTS2120C,D9007,Kerman,Security+,SY0-007,"Wednesday, August 26, 2026",9am,Pass,FALSE,754,750,6-Aug-26
+CTS2120C,D9007,Kerman,Security+,SY0-007,"Wednesday, August 26, 2026",9am,Fail,FALSE,723,750,6-Aug-26
+CTS2120C,D9189,Kerman,Security+,SY0-007,"Wednesday, August 26, 2026",9am,Fail,TRUE,0,750,6-Aug-26
+CTS2120C,D9007,Kerman,Security+,SY0-007,"Wednesday, August 26, 2026",1pm,Fail,TRUE,0,750,6-Aug-26
+CTS2120C,D9189,Kerman,Security+,SY0-007,"Thursday, August 27, 2026",9am,Pass,FALSE,772,750,6-Aug-26
+CTS2120C,D9007,Kerman,Security+,SY0-007,"Thursday, August 27, 2026",9am,Fail,FALSE,710,750,6-Aug-26
+CTS2120C,D9007,Kerman,Security+,SY0-007,"Thursday, August 27, 2026",9am,Fail,TRUE,0,750,6-Aug-26
+CTS2120C,D9007,Kerman,Security+,SY0-007,"Thursday, August 27, 2026",1pm,Fail,TRUE,0,750,6-Aug-26
+CTS2120C,D9007,Kerman,Security+,SY0-007,"Thursday, August 27, 2026",1pm,Fail,TRUE,0,750,6-Aug-26
+CTS2149,D9190,Staats,Project+,PK0-005,"Thursday, August 6, 2026",1pm,Fail,FALSE,654,710,6-Aug-26
+CTS2149,D9190,Staats,Project+,PK0-005,"Monday, August 10, 2026",9am,Pass,FALSE,732,710,6-Aug-26
